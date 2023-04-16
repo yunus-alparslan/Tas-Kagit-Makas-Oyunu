@@ -1,0 +1,10 @@
+C:\Users\alpar\OneDrive\Masaüstü\C# Projelerim\Taş Kağıt\TaşKağıtOyunu\TaşKağıtOyunu\bin\Debug\TaşKağıtOyunu.exe.config
+C:\Users\alpar\OneDrive\Masaüstü\C# Projelerim\Taş Kağıt\TaşKağıtOyunu\TaşKağıtOyunu\bin\Debug\TaşKağıtOyunu.exe
+C:\Users\alpar\OneDrive\Masaüstü\C# Projelerim\Taş Kağıt\TaşKağıtOyunu\TaşKağıtOyunu\bin\Debug\TaşKağıtOyunu.pdb
+C:\Users\alpar\OneDrive\Masaüstü\C# Projelerim\Taş Kağıt\TaşKağıtOyunu\TaşKağıtOyunu\obj\Debug\TaşKağıtOyunu.csprojResolveAssemblyReference.cache
+C:\Users\alpar\OneDrive\Masaüstü\C# Projelerim\Taş Kağıt\TaşKağıtOyunu\TaşKağıtOyunu\obj\Debug\TaşKağıtOyunu.Form1.resources
+C:\Users\alpar\OneDrive\Masaüstü\C# Projelerim\Taş Kağıt\TaşKağıtOyunu\TaşKağıtOyunu\obj\Debug\TaşKağıtOyunu.Properties.Resources.resources
+C:\Users\alpar\OneDrive\Masaüstü\C# Projelerim\Taş Kağıt\TaşKağıtOyunu\TaşKağıtOyunu\obj\Debug\TaşKağıtOyunu.csproj.GenerateResource.Cache
+C:\Users\alpar\OneDrive\Masaüstü\C# Projelerim\Taş Kağıt\TaşKağıtOyunu\TaşKağıtOyunu\obj\Debug\TaşKağıtOyunu.exe
+C:\Users\alpar\OneDrive\Masaüstü\C# Projelerim\Taş Kağıt\TaşKağıtOyunu\TaşKağıtOyunu\obj\Debug\TaşKağıtOyunu.pdb
+C:\Users\alpar\OneDrive\Masaüstü\C# Projelerim\Taş Kağıt\TaşKağıtOyunu\TaşKağıtOyunu\obj\Debug\TaşKağıtOyunu.Game.resources
